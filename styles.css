@@ -1,8 +1,15 @@
 body {
-    color: purple;
+    color: blue;
     background: black;
 }
 
 header{
-    border-bottom: solid 2px purple
+    border-bottom: solid 2px blue;
+    padding: 20px;
+    font-size: 32px;
+    color: rgba(8, 44, 246, 0.744);
+}
+
+section{
+    background:black rgba(8, 44, 246, 0.744)
 }
