@@ -1,6 +1,7 @@
 body {
     color: blue;
     background: black;
+    font-family: "Bangers", system-ui;
 }
 
 header{
@@ -11,5 +12,13 @@ header{
 }
 
 section{
-    background:black rgba(8, 44, 246, 0.744)
+    background:black;
+    padding-bottom: 80px;
+padding-top: 80px;
+display: flex;
+justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
 }
